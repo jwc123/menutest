@@ -1,0 +1,7 @@
+diff a/2haowenjian/dsadsa.txt b/2haowenjian/dsadsa.txt	(rejected hunks)
+@@ -2,3 +2,4 @@
+\ No newline at end of file
++<<<<<<< HEAD
+ 2haowenjian
+ =======
+ 1号文件
