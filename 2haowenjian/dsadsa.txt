@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-2haowenjian
-=======
-1号文件
->>>>>>> 1f15d35fbe0d0bb5e61a9bc6b416bf096c626c63
+pc机修改
